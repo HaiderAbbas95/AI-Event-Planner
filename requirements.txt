@@ -1,0 +1,5 @@
+streamlit
+openai
+requests
+python-dateutil
+google-api-python-client
