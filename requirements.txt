@@ -4,3 +4,4 @@ requests
 pydantic
 yfinance
 python-pptx
+litellm
