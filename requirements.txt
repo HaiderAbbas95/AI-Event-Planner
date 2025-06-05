@@ -5,3 +5,4 @@ pydantic
 yfinance
 python-pptx
 litellm
+dateparser
