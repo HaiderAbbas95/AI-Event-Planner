@@ -1,6 +1,4 @@
 import sys
-import os
-sys.path.append(os.path.abspath("."))
 import json
 from agentpro import ReactAgent, create_model
 import os
