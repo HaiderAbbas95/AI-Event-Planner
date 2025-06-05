@@ -1,6 +1,7 @@
 import streamlit as st
-from orchestrator import orchestrated_event_plan
-from user_intent_agent import extract_user_intent  # adjust path if needed
+  # adjust path if needed
+from Agents.orchestrator import orchestrated_event_plan
+from Agents.user_intent_agent import extract_user_intent
 
 st.set_page_config(page_title="AI Event Manager", page_icon="🎉")
 st.title("🎉 AI Event Manager")
