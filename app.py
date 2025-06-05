@@ -1,6 +1,4 @@
 import sys
-import os
-sys.path.append(os.path.abspath("./"))
 import streamlit as st
   # adjust path if needed
 from Agents.orchestrator import orchestrated_event_plan
