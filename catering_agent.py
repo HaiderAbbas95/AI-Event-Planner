@@ -6,7 +6,7 @@ import requests
 # AgentPro setup
 sys.path.insert(0, "/content/AgentPro")
 from agentpro import ReactAgent, create_model
-from agentpro.tools import MealPlannerTool
+from agentpro.tools.mealplanner_tool import MealPlannerTool
 
 # Load keys from environment
 GOOGLE_API_KEY = os.environ["GOOGLE_API_KEY"]
