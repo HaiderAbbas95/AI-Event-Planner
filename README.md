@@ -42,7 +42,9 @@ Don’t want that your guests gets bored during their stay? It wil recommend gro
 
 ## 🛠️ Setup Instructions
 
-### 1. Clone the Repository
-```bash
+### 1. Clone the Repository, Make sure that you have the tools of agentpro available in your environment.
+
 git clone https://github.com/HaiderAbbas95 /AI-Event-Planner.git
 cd AI-Event-Planner
+
+### 2. Use your own API and Google Maps API Keys, as the ones i have used will not be availale for long.
